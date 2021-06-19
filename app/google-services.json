@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354769969845",
+    "firebase_url": "https://barbershop-b78a6.firebaseio.com",
+    "project_id": "barbershop-b78a6",
+    "storage_bucket": "barbershop-b78a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354769969845:android:01a0b035c436562b2714fc",
+        "android_client_info": {
+          "package_name": "com.imbackt.barbershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354769969845-r2q6eigkj2chb4ug2vll0qdjbis6h4uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ-M1esT1YBiQMcfkLR2AFXM74JpE7J40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354769969845-r2q6eigkj2chb4ug2vll0qdjbis6h4uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
